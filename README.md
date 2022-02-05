@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋, I'm Amar</h1>
 
-<h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
+<h3 align="center">A young-dumb 🤓 Full Stack Web developer from India 🇮🇳</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=amarshinde150 alt=amarshinde150/> </p>
 
 
 - 🔭 I’m currently working on [Concepts Of API](https://github.com/IndiaVaccineIN/india-vaccine-frontend)
-
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
 - 💬 Ask me about **NodeJS, MongoDb and Algorithms**
 
@@ -30,7 +28,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [amarshinde150](https://amarshinde150.github.io/Landing-Page/)
 
-- ⚡ Fun fact **I copied this webpage From [rahuldkjain](https://rahuldkjain.github.io/blog)**
 
 <!--
 <h3 align="left">Connect with me:</h3>
