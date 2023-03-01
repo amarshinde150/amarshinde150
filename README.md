@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **NodeJS, MongoDb and Algorithms**
 
-- 📫 Reach me at **amarshinde150@gmail.com**
+- 📫 Reach me at **amarshindhe150@gmail.com**
 
 - 👨‍💻 All of my projects are available at [amarshinde150](https://amarshinde150.github.io/Landing-Page/)
 
