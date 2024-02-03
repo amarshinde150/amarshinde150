@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋, I'm Amar</h1>
 
-<h3 align="center">🤓 Cyber Security Enthusiastic from India 🇮🇳</h3>
+<h3 align="center">🤓 Cyber Security Engineer from India 🇮🇳</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=amarshinde150 alt=amarshinde150/> </p>
 
 
